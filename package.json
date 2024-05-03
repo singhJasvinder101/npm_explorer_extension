@@ -1,11 +1,11 @@
 {
   "name": "npm_explorer",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "version": "0.0.1",
+  "description": "Save your time and multiply your productivity to 3X!",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/singhJasvinder101/npm_explorer_extension.git"
   },
   "scripts": {
     "build": "node utils/build.js",
@@ -13,8 +13,10 @@
     "prettier": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,scss,md}'"
   },
   "dependencies": {
+    "query-registry": "^3.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
