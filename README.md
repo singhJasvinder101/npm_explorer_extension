@@ -28,11 +28,16 @@ NPM Explorer fetches data from the NPM registry API and presents it in an easy-t
 
 1. Click on the extension icon in your Chrome browser toolbar to open the popup.
 2. Enter the name of the NPM package you want to search for in the input field.
+
 3. Click on the "Search" button to view the search results.
 4. Explore the list of packages and click on any package to view its detailed information.
 
-## Feedback
 
-If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/singhJasvinder101/npm_explorer_extension/issues) or [reach out to me](jasvindersingh1051@gmail.com) directly. Your feedback is highly appreciated!
+If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/singhJasvinder101/npm_explorer_extension/issues). Your feedback is highly appreciated!
 
-Jasvinder Singh | [Website](jasvinder-portfolio.netlify.app)
+Jasvinder Singh | [Website](https://jasvinder-portfolio.netlify.app)
+
+
+
+## Demo
+[screen-capture (1).webm](https://github.com/singhJasvinder101/npm_explorer_extension/assets/131908922/b522bfa1-b2d3-447e-9c17-871b16abf8bd)
